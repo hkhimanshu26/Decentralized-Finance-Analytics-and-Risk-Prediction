@@ -6,7 +6,7 @@ The **DeFi Risk Analysis and Prediction System** is a web application designed t
 ## Live Demo
 
 You can try the application live here:  
-**[Live Demo](https://defi-risk-analysis-and-prediction-system-for-ethereum.streamlit.app/#generating-interactive-dashboard)**
+**[Live Demo](https://defi-risk-analysis-and-prediction-system-for-ethereum.streamlit.app/~/+/#generating-interactive-dashboard)**
 
 ![image](https://github.com/user-attachments/assets/a092506e-20a5-4c06-8de7-82defca53504)
 
@@ -61,6 +61,7 @@ streamlit run main.py
 ```
 
 Once the application is running, you can access it in your web browser at `http://localhost:8501`.
+
 
 
 
