@@ -1,0 +1,7 @@
+web3
+requests
+pandas
+scikit-learn
+streamlit
+matplotlib
+plotly
